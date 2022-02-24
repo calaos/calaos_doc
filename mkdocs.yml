@@ -1,0 +1,9 @@
+
+site_name: Calaos Documentation
+#site_url: https://doc.calaos.fr/
+nav:
+    - Home: index.md
+theme:
+   gitbook
+
+plugins: []
